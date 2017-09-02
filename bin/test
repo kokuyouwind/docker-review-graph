@@ -17,6 +17,7 @@ rm -f test/book.pdf
 rm -f test/book.epub
 
 # generate test target
+docker-compose build
 docker-compose run --rm review bash -c "review-pdfmaker config.yml && review-epubmaker config.yml"
 
 # test pdf files

@@ -1,5 +1,5 @@
 # docker-review-graph
-[![CircleCI](https://circleci.com/gh/kokuyouwind/docker-review-graph/tree/master.svg?style=svg)](https://circleci.com/gh/kokuyouwind/docker-review-graph/tree/master)
+[![CircleCI branch](https://img.shields.io/circleci/project/github/kokuyouwind/docker-review-graph/master.svg)](https://circleci.com/gh/kokuyouwind/docker-review-graph/tree/master)
 [![Docker Build Statu](https://img.shields.io/docker/build/kokuyouwind/review-graph.svg)](https://hub.docker.com/r/kokuyouwind/review-graph/)
 [![Docker Automated buil](https://img.shields.io/docker/automated/kokuyouwind/review-graph.svg)](https://hub.docker.com/r/kokuyouwind/review-graph/)
 [![Docker Stars](https://img.shields.io/docker/stars/kokuyouwind/review-graph.svg)](https://hub.docker.com/r/kokuyouwind/review-graph/)

@@ -1,0 +1,7 @@
+version: '2'
+services:
+  review:
+    build: .
+    working_dir: /work/test
+    volumes:
+      - .:/work

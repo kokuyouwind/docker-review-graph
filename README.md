@@ -7,8 +7,9 @@
 
 
 [Re:VIEW](https://github.com/kmuto/review/) build container by docker with graph plot tools.
+
 This image supports [gnuplot](http://www.gnuplot.info/), [Graphviz](http://www.graphviz.org/), [blockdiag](http://blockdiag.com/ja/blockdiag/) and [aafigure](https://pythonhosted.org/aafigure/).
 
-base image: https://github.com/vvakame/docker-review
-trusted build: https://hub.docker.com/r/kokuyouwind/review-graph/
-scaffold boilerplate: https://github.com/kokuyouwind/review-scaffold
+ - base image: https://github.com/vvakame/docker-review
+ - trusted build: https://hub.docker.com/r/kokuyouwind/review-graph/
+ - scaffold boilerplate: https://github.com/kokuyouwind/review-scaffold

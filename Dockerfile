@@ -1,4 +1,4 @@
-FROM vvakame/review
+FROM vvakame/review:2.5
 MAINTAINER kokuyouwind <kokuyouwind@gmail.com>
 
 # install Graph Tools(Graphviz, gnuplot)
